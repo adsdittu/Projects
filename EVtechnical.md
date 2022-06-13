@@ -7,7 +7,7 @@ Let us now have a look at EV's main components
 
 ![26cd84d910624b2aa6d7e1305e8ede45](https://user-images.githubusercontent.com/107342166/173223024-7526aba8-3b20-4b80-b9b1-63e63c413709.jpg)
 
-*Source: [https://www.hyundaimotorgroup.com/](https://www.hyundaimotorgroup.com/)*
+*Source: ([https://www.hyundaimotorgroup.com/](https://www.hyundaimotorgroup.com/))*
 
 Using the electricity saved in the battery, EVs cycle the motor and generate the power necessary for driving. This is quite different from the working of Internal Combustion Engines(ICE), in which the engine exhausts fossil fuel to generate that power. EVs do not need engine and transmission for working like internal combustion vehicles. Instead, EVs carry several components for electric power: the motor, the battery, the onboard charger, and the Electric Power Control Unit(EPCU). All these components work together to convert the battery's electric energy to kinetic energy that drives the EV.
 
@@ -51,6 +51,7 @@ These are very convenient thanks to their widespread network throughout the urba
 - Provides charging power above 50kW through a  450V outlet
 
 ![15702](https://user-images.githubusercontent.com/107342166/173235141-458dda26-f300-4402-a433-80f574c27e14.jpg)
+
 *Figure: Countries with number of  EV charging stations per 100km of road*
 
 ## Range
