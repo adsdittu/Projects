@@ -68,17 +68,16 @@ EVs are quite different from conventional vehicles with internal combustion engi
 
 Comparisons between Internal Combustion Engine (ICE) and Electric Vehicle(EV)
 
-| Syntax | Description |
+|**ICE** |**EV**|
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
+| Powertrain: IC engine | Powertrain : Motor |
+| Emits greenhouse gases | No tailpipe emissions |
+| Travels > 300 miles / fill | Travels < 100 miles / charge |
+| Short refilling time (< 5 min.) | Long charging time (0.5-8 hr.) |
+| Fuel tank takes less space | Battery takes large space |
+| Higher maintenance costs | Lower maintenance costs |
+| Running cost: high | Running cost: low |
+| Noisy Operation | Quiet Operation |
 
 
 There is a rise in demand for EVs over ICE-powered vehicles due to their numerous benefits like lower running costs, lower maintenance costs, and environment-friendly nature.
